@@ -23,3 +23,4 @@ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
 
 service odoo restart
 ~~~
+apt --fix-broken install
